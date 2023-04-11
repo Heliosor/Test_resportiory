@@ -3,5 +3,6 @@ public class Week {
         System.out.println("第一次工作  回滚点1");
         System.out.println("我要回滚  001");
         System.out.println("我要回滚  002");
+        System.out.println("我在远程修改了");
     }
 }
